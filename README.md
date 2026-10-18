@@ -1,6 +1,6 @@
-# MedAI: Chest X-Ray Classification
+# HEXA-Net: Hybrid Explainable X-Ray Diagnostic Ensemble
 
-MedAI is a medical image classification project that uses deep learning to identify abnormalities in chest X-rays. Using a state-of-the-art EfficientNet-B0 backbone, it categorizes images into three classes (e.g., Normal, Pneumonia, Abnormal). It includes a fully-featured training pipeline, evaluation scripts, interpretability with Grad-CAM, and a Streamlit-based web application for easy interaction.
+HEXA-Net is a medical image classification project that uses deep learning to identify abnormalities in chest X-rays. Using a state-of-the-art EfficientNet-B0 backbone, it categorizes images into three classes (e.g., Normal, Pneumonia, Abnormal). It includes a fully-featured training pipeline, evaluation scripts, interpretability with Grad-CAM, and a Streamlit-based web application for easy interaction.
 
 ## 🏗️ Project Architecture
 
